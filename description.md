@@ -81,7 +81,7 @@
 1. Задать имя сетевого устройства:  
 `enable`  
 `config terminal`  
-`hostname R1`
+`hostname R1`  
 `ip domain-name otus.ru`
 
 2. Защита устройства и первичная настройка для возможности удаленного доступа:  
