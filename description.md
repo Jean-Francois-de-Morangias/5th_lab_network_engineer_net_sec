@@ -23,7 +23,7 @@
 1. Задать имя сетевого устройства:  
 `enable`  
 `config terminal`  
-`hostname SW1`
+`hostname SW1`  
 `ip domain-name sw.otus.ru`
 
 2. Защита устройства и первичная настройка для возможности удаленного доступа:  
